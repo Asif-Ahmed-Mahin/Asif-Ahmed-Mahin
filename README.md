@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, ML, Deep learning, Android dev
 - 🌱 I’m currently learning ...DSA,Python,Scikitlearn,Java,Kotlin
 - 💞️ I’m looking to collaborate on ...ML deployment projects
-- 📫 How to reach me ...
+
 
 
 <!---
